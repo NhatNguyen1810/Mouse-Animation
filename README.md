@@ -1,4 +1,5 @@
-# Mouse-Animation
+# Website Animations 
+
 These are website animations I made and posted on Codepen, including my code lines.
 
 1/ SVG Masking combining with TweetMaxJS. https://codepen.io/nhatnguyen1810/pen/BaajvEr
